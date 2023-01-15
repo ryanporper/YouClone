@@ -8,5 +8,5 @@ Meida coming soon
 ![Home Page](https://i.imgur.com/s09BhCc.jpeg)
 
 # Features
-![Features](https://i.imgur.com/Z691lbC.gif)
+![Features](https://i.imgur.com/L6AzRbs.gif)
 

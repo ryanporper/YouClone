@@ -22,7 +22,7 @@ const Feed = () => {
         />
 
         <Typography className='copyright' variant='"body2' sx={{ mt: 1.5, color: ' #fff' }}>
-          Copyright 2022 YouClone
+          Copyright © 2023 YouClone
         </Typography>
       </Box>
 

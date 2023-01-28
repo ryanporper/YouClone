@@ -1,8 +1,10 @@
 # YouClone - YouTube clone
+## [Check out the live site!](http://youclone.s3-website-us-east-1.amazonaws.com/)
 
-Fully responsive app built in React.js with Material UI 5 using [YouTube v3 Rapid API](https://rapidapi.com/ytdlfree/api/youtube-v31) for API requests hosted on AWS S3
-
-# [Check out the live site!](http://youclone.s3-website-us-east-1.amazonaws.com/)
+## Built with:
+- React.js 
+- Material UI 5 
+- Using [YouTube v3 Rapid API](https://rapidapi.com/ytdlfree/api/youtube-v31)
 
 # Home Page
 ![Home Page](https://i.imgur.com/s09BhCc.jpeg)
